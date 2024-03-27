@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Bolmog1
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Bolmog01@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I've learn Assembly
 
 <!---
